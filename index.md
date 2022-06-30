@@ -20,7 +20,7 @@ Hello!
 
 [1]:https://github.com/YongceLi/cse15l-lab-reports/edit/main/index.md
 
-![image](https://towardsdatascience.com/3-numpy-image-transformations-on-baby-yoda-c27c1409b411)
+![image]([https://towardsdatascience.com/3-numpy-image-transformations-on-baby-yoda-c27c1409b411](https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg))
 
 ![image][2]
-[2]:https://towardsdatascience.com/3-numpy-image-transformations-on-baby-yoda-c27c1409b411
+[2]:[https://towardsdatascience.com/3-numpy-image-transformations-on-baby-yoda-c27c1409b411](https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg)
